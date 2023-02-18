@@ -1,8 +1,11 @@
 import React from 'react'
+import Homing from '../components/Homing'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <Homing />
+    </div>
   )
 }
 
