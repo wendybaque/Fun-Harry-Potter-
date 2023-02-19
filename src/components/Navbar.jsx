@@ -5,6 +5,7 @@ import { desktop } from "../responsive";
 
 const Container = styled.div`
   background-color: black;
+  color: white;
   text-decoration: none;
 `;
 
@@ -58,7 +59,7 @@ const Navbar = () => {
           <NavItem>Home</NavItem>
         </Link>
         <Link href="/All">
-          <NavItem>All</NavItem>
+          <NavItem>All persos</NavItem>
         </Link>
         <Link href="/Contact">
           <NavItem>Contact</NavItem>
