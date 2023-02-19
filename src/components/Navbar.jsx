@@ -30,7 +30,7 @@ const NavItem = styled.li`
   &:hover {
     border-bottom: 4px solid goldenrod;
   }
-  ${desktop({ fontSize: "1.3rem" , padding:"1rem"})}
+  ${desktop({ fontSize: "1.3rem", padding: "1rem" })}
 `;
 
 const Link = styled.a`
@@ -53,9 +53,7 @@ const Navbar = () => {
   return (
     <Container>
       <NavList>
-        <Link href="/">
-          <Logo src={logo} alt="Emblem" />
-        </Link>
+        <Logo src={logo} alt="Emblem" />
         <Link href="/">
           <NavItem>Home</NavItem>
         </Link>

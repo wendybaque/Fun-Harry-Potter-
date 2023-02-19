@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Fetching [this API](https://hp-api.onrender.com/).
+
+Based on [Nonoduweb](https://www.youtube.com/watch?v=pXz4dWmCAxA&list=PLpG_QqfOtrUeUqV1unw5W1kD4m9CIcQk5) tutorials;
+
 ## Available Scripts
 
 In the project directory, you can run:
