@@ -17,7 +17,7 @@ const Title = styled.h1`
   padding-top: 1rem;
   font-size: 1.5rem;
   font-family: "julee";
-  color: #cf0101df;
+  color: white;
   text-align: center;
   ${desktop({ fontSize: "3rem" })}
 `;
