@@ -6,9 +6,9 @@ Fetching [this API](https://hp-api.onrender.com/).
 
 Based on [Nonoduweb](https://www.youtube.com/watch?v=pXz4dWmCAxA&list=PLpG_QqfOtrUeUqV1unw5W1kD4m9CIcQk5) tutorials.
 
-You can access to this project and explore it [here](https://fun-harry-potter-gz2grtgfo-wendybaque.vercel.app/)
+You can access to this project and explore it [here](https://fun-harry-potter-gz2grtgfo-wendybaque.vercel.app/).
 
-![](https://fun-harry-potter-gz2grtgfo-wendybaque.vercel.app/)
+![Image](https://ibb.co/vBJpdtN)
 
 ## Available Scripts
 
